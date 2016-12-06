@@ -96,7 +96,7 @@ footer hr{border-top:1px solid #e2e0e0;}
 
 /*Media Queries */
 @media(min-width:1024px){
-.header > div > a.btn{top: 6em}
+    .header > div > a.btn{top: 6em}
 }
 
 @media(max-width:768px){
